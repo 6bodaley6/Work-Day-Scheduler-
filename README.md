@@ -10,7 +10,7 @@ https://6bodaley6.github.io/Work-Day-Scheduler-/
 
 ## Preview
 
-<img width="1523" alt="Screen Shot 2020-12-05 at PM" src="https://user-images.githubusercontent.com/70559889/101266189-d86a2380-3709-11eb-8b1f-13ab72fc6eaf.png)">
+<img width="1523" alt="Screen Shot 2020-12-05 at 3:11PM" src="https://user-images.githubusercontent.com/70559889/101266189-d86a2380-3709-11eb-8b1f-13ab72fc6eaf.png)">
 
 ## Instructions
 
